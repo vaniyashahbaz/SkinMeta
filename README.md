@@ -189,4 +189,4 @@ Output files will appear in `data_scripts/data/`.
 
 ## License
 
-This project was developed for academic purposes as part of a Software Engineering course.
+This project was developed for academic purposes as part of AI course.
